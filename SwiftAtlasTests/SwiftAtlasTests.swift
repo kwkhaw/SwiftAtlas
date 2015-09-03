@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import SwiftAtlas
+//@testable import SwiftAtlas
 
 class SwiftAtlasTests: XCTestCase {
     
